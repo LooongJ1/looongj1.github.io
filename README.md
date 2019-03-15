@@ -1,4 +1,4 @@
-## 欢迎来到LooongJ1的博客
+## 欢迎来到 LooongJ1 的博客
 
 You can use the [editor on GitHub](https://github.com/LooongJ1/looongj1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,7 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
@@ -24,7 +26,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
